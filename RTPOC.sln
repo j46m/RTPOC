@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTPOC", "RTPOC\RTPOC.csproj", "{F16D0724-D5E1-43EA-AFD2-AC1FED1AA451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16D0724-D5E1-43EA-AFD2-AC1FED1AA451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16D0724-D5E1-43EA-AFD2-AC1FED1AA451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16D0724-D5E1-43EA-AFD2-AC1FED1AA451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16D0724-D5E1-43EA-AFD2-AC1FED1AA451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82FC3AF0-64D7-430E-9BFB-A2689F9CADB3}
+	EndGlobalSection
+EndGlobal
